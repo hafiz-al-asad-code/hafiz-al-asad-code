@@ -4,13 +4,13 @@
 ---
 
 ## 👨‍💻 About Me
-Hi! I'm Hafiz Al Asad Bhuiyan, a passionate **Frontend Developer** and **JavaScript enthusiast** from Bangladesh. I build **modern, responsive, and user-friendly web apps**. I love learning new technologies and turning ideas into real projects.
+I'm a passionate **Frontend Developer** and **JavaScript enthusiast** from Bangladesh. I build **modern, responsive, and user-friendly web applications**. I love learning new technologies and transforming ideas into real projects.  
 
 💡 *"Debugging is like detective work — the thrill is in finding the truth."*
 
 **What I Do:**  
-- Build **responsive and interactive web apps** with React, Next.js, Vue.js, and modern frameworks.  
-- Implement **cutting-edge web technologies** and best coding practices.  
+- Build **responsive and interactive web apps** using React, Next.js, Vue.js, and modern frameworks.  
+- Implement **cutting-edge web technologies** and follow best coding practices.  
 - Collaborate on projects that **blend creativity with functionality**.  
 
 **Fun Fact:** I debug with **coffee ☕** and code with **passion 💻**!  
@@ -31,8 +31,8 @@ Travel and E-Commerce Websites
 ## 💼 Portfolio
 [My Projects](https://hafiz-al-asad-code.github.io/responsive-flower-shop-website/)
 
-## 📫 Reach Me At
-hafiz.dev24@gmail.com  
+## 📫 Contact
+📧 hafiz.dev24@gmail.com  
 
 ---
 
