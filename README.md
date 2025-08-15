@@ -31,36 +31,23 @@ I’m currently focused on **React, Next.js, and advanced JavaScript** to enhanc
 | [Responsive Flower Shop Website](https://hafiz-al-asad-code.github.io/responsive-flower-shop-website/) | React, Next.js, Advanced JavaScript | Travel and E-Commerce Websites | [My Projects](https://hafiz-al-asad-code.github.io/responsive-flower-shop-website/) | 📧 hafiz.dev24@gmail.com |
 
 ---
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafiz-al-asad-bhuiyan)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hafiz.dev24@gmail.com)
-
----
-
 ## 🛠 Skills & Tools
 
 **Frontend Development**  
-- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?size=25) HTML  
-- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg?size=25) CSS  
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg?size=25) JavaScript  
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg?size=25) React  
-- ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) Next.js  
-- ![Vue](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg?size=25) Vue.js  
-- ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg?size=25) Tailwind CSS  
-- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg?size=25) Bootstrap  
+| HTML | CSS | JavaScript | React | Next.js | Vue | Tailwind | Bootstrap |
+|------|-----|------------|-------|---------|-----|---------|-----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> |
 
 **Backend Development**  
-- ![Node](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg?size=25) Node.js  
-- ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg?size=25) Express  
-- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg?size=25) MongoDB  
+| Node.js | Express | MongoDB |
+|---------|--------|---------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> |
 
 **Other Tools & Technologies**  
-- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg?size=25) Git  
-- ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg?size=25) Firebase  
-- ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg?size=25) Figma  
-- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg?size=25) TypeScript  
-- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg?size=25) C  
+| Git | Firebase | Figma | TypeScript | C |
+|-----|---------|-------|------------|---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> |
+
 
 ---
 
