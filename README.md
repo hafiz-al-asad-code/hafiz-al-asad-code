@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hafiz Al Asad Bhuiyan</h1>
-<h3 align="center">Frontend Developer | JavaScript Enthusiast | Lifelong Learner</h3>
+<h1 align="left">Hi 👋, I'm Hafiz Al Asad Bhuiyan</h1>
+<h3 align="left">Frontend Developer | JavaScript Enthusiast | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hafiz-al-asad-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="left">
+
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafiz-al-asad-code&theme=gruvbox&no-frame=true&margin-w=15" alt="Trophies" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
+  <img src="https://komarev.com/ghpvc/?username=hafiz-al-asad-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 - 🔭 **Currently working on:** [Flowers Shop](https://hafiz-al-asad-code.github.io/responsive-flower-shop-website/)  
 - 🌱 **Currently learning:** React, JavaScript, Next.js  
 - 👯 **Looking to collaborate on:** Travel Website  
