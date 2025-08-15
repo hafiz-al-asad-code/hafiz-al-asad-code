@@ -83,4 +83,4 @@
 
 ---
 
-💡 *"Code is like humor — when you have to explain it, it’s bad."*  
+💡 *"Debugging is like detective work — the thrill is in finding the truth."*  
