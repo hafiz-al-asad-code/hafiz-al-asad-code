@@ -45,19 +45,26 @@ Travel and E-Commerce Websites
 ## 🛠 Skills & Tools
 
 **Frontend Development**  
-| HTML | CSS | JavaScript | React | Next.js | Vue | Tailwind | Bootstrap |
-|------|-----|------------|-------|---------|-----|---------|-----------|
-| ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?size=20) | ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg?size=20) | ![JS](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg?size=20) | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg?size=20) | ![Next](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) | ![Vue](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg?size=20) | ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg?size=20) | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg?size=20) |
+- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?size=25) HTML  
+- ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg?size=25) CSS  
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg?size=25) JavaScript  
+- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg?size=25) React  
+- ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) Next.js  
+- ![Vue](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg?size=25) Vue.js  
+- ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg?size=25) Tailwind CSS  
+- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg?size=25) Bootstrap  
 
 **Backend Development**  
-| Node.js | Express | MongoDB |
-|---------|--------|---------|
-| ![Node](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg?size=20) | ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg?size=20) | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg?size=20) |
+- ![Node](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg?size=25) Node.js  
+- ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg?size=25) Express  
+- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg?size=25) MongoDB  
 
 **Other Tools & Technologies**  
-| Git | Firebase | Figma | TypeScript | C |
-|-----|---------|-------|------------|---|
-| ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg?size=20) | ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg?size=20) | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg?size=20) | ![TS](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg?size=20) | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg?size=20) |
+- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg?size=25) Git  
+- ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg?size=25) Firebase  
+- ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg?size=25) Figma  
+- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg?size=25) TypeScript  
+- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg?size=25) C  
 
 ---
 
