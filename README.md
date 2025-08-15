@@ -4,35 +4,31 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate **Frontend Developer** and **JavaScript enthusiast** from Bangladesh. I build **modern, responsive, and user-friendly web applications**. I love learning new technologies and transforming ideas into real projects.  
+Hi! I'm Hafiz Al Asad Bhuiyan, a passionate **Frontend Developer** and **JavaScript enthusiast** from Bangladesh. I love building **modern, responsive, and user-friendly web applications** that make an impact. My curiosity drives me to continuously **learn and explore new technologies**, turning ideas into real-world projects.
+
+I’m currently focused on **React, Next.js, and advanced JavaScript** to enhance my frontend and full-stack capabilities. I enjoy collaborating on **travel and e-commerce websites**, experimenting with **UI/UX designs**, and solving challenging coding problems.
 
 💡 *"Debugging is like detective work — the thrill is in finding the truth."*
 
 **What I Do:**  
-- Build **responsive and interactive web apps** using React, Next.js, Vue.js, and modern frameworks.  
-- Implement **cutting-edge web technologies** and follow best coding practices.  
+- Build **responsive and interactive web applications** with React, Next.js, and modern frontend frameworks.  
+- Learn and implement **cutting-edge web technologies** and best coding practices.  
 - Collaborate on projects that **blend creativity with functionality**.  
 
 **Fun Fact:** I debug with **coffee ☕** and code with **passion 💻**!  
 
+**Let’s Connect:** I’m always open to **networking, collaboration, and sharing ideas**.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=hafiz-al-asad-code&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ---
 
-## 🔭 Currently Working On
-[Responsive Flower Shop Website](https://hafiz-al-asad-code.github.io/responsive-flower-shop-website/)
+## 📌 Overview
 
-## 🌱 Currently Learning
-React, Next.js, Advanced JavaScript
-
-## 🤝 Looking to Collaborate On
-Travel and E-Commerce Websites
-
-## 💼 Portfolio
-[My Projects](https://hafiz-al-asad-code.github.io/responsive-flower-shop-website/)
-
-## 📫 Contact
-📧 hafiz.dev24@gmail.com  
+| 🔭 Currently Working On | 🌱 Currently Learning | 🤝 Looking to Collaborate On | 💼 Portfolio | 📫 Contact |
+|------------------------|---------------------|-----------------------------|-------------|------------|
+| [Responsive Flower Shop Website](https://hafiz-al-asad-code.github.io/responsive-flower-shop-website/) | React, Next.js, Advanced JavaScript | Travel and E-Commerce Websites | [My Projects](https://hafiz-al-asad-code.github.io/responsive-flower-shop-website/) | 📧 hafiz.dev24@gmail.com |
 
 ---
 
